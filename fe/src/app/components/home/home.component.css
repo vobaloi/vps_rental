@@ -18,8 +18,8 @@
 }
 button {
     border: 1px solid white;
-    width: 100px;
-    padding: 5px 0;
+    width: 150px;
+    padding: 10px 0;
     background: none;
     border-radius: 2px;
     color: #fff;
@@ -38,8 +38,12 @@ button:nth-child(3):hover {
     color: rgb(238, 33, 33);   
 }
 
+.content-right {
+    text-align: center;
+}
+
 .content-right img {
-    width: 350px;
+    width: 400px;
 
 }
 
