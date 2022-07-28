@@ -1,0 +1,20 @@
+nav {
+    padding: 0 30px;
+}
+
+.navbar-brand img {
+    height: 45px;
+    width: 45px;
+}
+
+button {
+    background: #fff;
+    color: rgb(238, 33, 33);  
+    border: 1px solid rgb(238, 33, 33); 
+    border-radius: 5px;
+}
+
+button:hover {
+    background: rgb(238, 33, 33);
+    color: white ;  
+}
